@@ -1,0 +1,464 @@
+.version.about_us /* version checker */
+{
+	color: #000008;
+	background-color: #07B148;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/aheimann_storyteller_white.jpg") no-repeat left top scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 659px;
+	border-style: none;
+	border-color: transparent;
+	padding-bottom: 22px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #FFFFFF url("../images/aheimann_storyteller_white-page-fr.png") no-repeat left top;
+	background-color: rgba(255,255,255,0.26);
+	background-size: cover;
+}
+
+#u138_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u138_position_content
+{
+	margin-bottom: -11px;
+	padding-top: 44px;
+}
+
+#pu1228
+{
+	width: 0.01px;
+	left: 910px;
+	position: relative;
+}
+
+#u1228
+{
+	z-index: 12;
+	width: 45px;
+	margin-right: -10000px;
+}
+
+#u4447
+{
+	z-index: 38;
+	width: 41px;
+	margin-right: -10000px;
+	left: 94px;
+}
+
+#u546
+{
+	z-index: 3;
+	left: 68px;
+	top: -2px;
+	margin-bottom: -2px;
+}
+
+#u138,#u138-bw
+{
+	z-index: 2;
+	min-height: 172px;
+}
+
+#u1227
+{
+	z-index: 5;
+	width: 335px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 29px;
+}
+
+#u748
+{
+	z-index: 6;
+	width: 130px;
+	margin-right: -10000px;
+	margin-top: 2px;
+}
+
+#u781
+{
+	z-index: 8;
+	width: 118px;
+	margin-right: -10000px;
+	left: 132px;
+}
+
+#u781_clip
+{
+	width: 118px;
+	height: 69px;
+}
+
+#u781_img
+{
+	margin-top: -12px;
+}
+
+#u945
+{
+	z-index: 10;
+	width: 85px;
+	margin-right: -10000px;
+	left: 250px;
+}
+
+#u1260
+{
+	z-index: 14;
+	width: 251px;
+	margin-right: -10000px;
+	margin-top: 50px;
+	left: 575px;
+}
+
+#u3204
+{
+	z-index: 16;
+	width: 165px;
+	padding-bottom: 9px;
+	margin-right: -10000px;
+	margin-top: 104px;
+	left: 46px;
+}
+
+#u3208-4
+{
+	z-index: 20;
+	width: 134px;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 12px;
+}
+
+#u3205
+{
+	z-index: 17;
+	width: 161px;
+	padding-bottom: 8px;
+	margin-right: -10000px;
+	margin-top: 104px;
+	left: 217px;
+}
+
+#u3209-4
+{
+	z-index: 24;
+	width: 134px;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 13px;
+}
+
+#u3206
+{
+	z-index: 18;
+	width: 175px;
+	padding-bottom: 11px;
+	margin-right: -10000px;
+	margin-top: 108px;
+	left: 562px;
+}
+
+#u3212-4
+{
+	z-index: 28;
+	width: 134px;
+	margin-right: -10000px;
+	margin-top: 13px;
+	left: 24px;
+}
+
+#u3207
+{
+	z-index: 19;
+	width: 171px;
+	padding-bottom: 13px;
+	margin-right: -10000px;
+	margin-top: 108px;
+	left: 744px;
+}
+
+#u3213-4
+{
+	z-index: 32;
+	width: 134px;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 9px;
+}
+
+#u3234
+{
+	z-index: 36;
+	width: 47px;
+	margin-right: -10000px;
+	margin-top: 27px;
+	left: 855px;
+}
+
+#u3234_img
+{
+	padding-bottom: 1px;
+}
+
+#u4951
+{
+	z-index: 40;
+	width: 845px;
+	margin-right: -10000px;
+	margin-top: 177px;
+	left: -100px;
+}
+
+#u2605
+{
+	z-index: 42;
+	width: 306px;
+	padding-bottom: 117px;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 318px;
+}
+
+#u2605:hover
+{
+	width: 306px;
+	min-height: 0px;
+	margin: 11px -10000px 0px 0px;
+}
+
+#u2605:active
+{
+	width: 306px;
+	min-height: 0px;
+	margin: 11px -10000px 0px 0px;
+}
+
+#home
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	margin-top: 99px;
+	left: 139px;
+}
+
+#u4959
+{
+	z-index: 43;
+	width: 330px;
+	margin-right: -10000px;
+	margin-top: 177px;
+	left: 739px;
+}
+
+#u2425
+{
+	z-index: 46;
+	-webkit-transform: matrix(0.9511,-0.309,0.309,0.9511,-11,47);
+	-ms-transform: matrix(0.9511,-0.309,0.309,0.9511,-11,47);
+	transform: matrix(0.9511,-0.309,0.309,0.9511,-11,47);
+	position: relative;
+	width: 285px;
+	margin-right: -10000px;
+	margin-top: 200px;
+	left: -111px;
+}
+
+#u2533
+{
+	z-index: 48;
+	-webkit-transform: matrix(0.866,0.5,-0.5,0.866,48,-65);
+	-ms-transform: matrix(0.866,0.5,-0.5,0.866,48,-65);
+	transform: matrix(0.866,0.5,-0.5,0.866,48,-65);
+	position: relative;
+	width: 289px;
+	margin-right: -10000px;
+	margin-top: 225px;
+	left: 783px;
+}
+
+#u2425_img,#u2533_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u3057
+{
+	z-index: 50;
+	width: 420px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 736px;
+	left: -105px;
+}
+
+#u3060
+{
+	z-index: 52;
+	width: 420px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 736px;
+	left: 315px;
+}
+
+#u3063
+{
+	z-index: 54;
+	width: 420px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 735px;
+	left: 737px;
+}
+
+#u3067-14
+{
+	z-index: 56;
+	width: 807px;
+	min-height: 281px;
+	background-color: transparent;
+	line-height: 20px;
+	text-align: center;
+	font-size: 17px;
+	font-family: abel, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 347px;
+	left: 76px;
+}
+
+#u3066-4
+{
+	z-index: 72;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 242px;
+	left: 375px;
+}
+
+#u3897
+{
+	z-index: 77;
+	width: 88px;
+	height: 82px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 655px;
+	left: 418px;
+	background: transparent url("../images/gally-u3897-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u3897:hover
+{
+	width: 88px;
+	height: 82px;
+	min-height: 0px;
+	margin: 655px -10000px 0px 0px;
+	background: transparent url("../images/gally-u3897-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4463
+{
+	z-index: 78;
+	width: 60px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 44px;
+	left: 804px;
+}
+
+#u4465
+{
+	z-index: 80;
+	width: 41px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 44px;
+	left: 904px;
+}
+
+#pu1530
+{
+	z-index: 45;
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 221px;
+	margin-left: -106px;
+}
+
+#u1530
+{
+	z-index: 0;
+	width: 1160px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	opacity: 0.63;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=63)";
+	filter: alpha(opacity=63);
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+}
+
+#pu3342
+{
+	width: 0.01px;
+	position: relative;
+	left: 389px;
+	padding-top: 21px;
+	z-index: 2;
+	padding-bottom: 425px;
+}
+
+#u3342
+{
+	z-index: 70;
+	width: 406px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

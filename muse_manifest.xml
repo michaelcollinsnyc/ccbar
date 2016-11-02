@@ -1,0 +1,249 @@
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" ftp_hostname="ftp://ftp.cottoncandybar.com" ftp_rootfolder="/" exportTarget="FTP" resolutions="1x" timestamp="1438971697765" iceMarkupVersion="2">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="master_a-master.css" crc="121900063" ref="flavors:contact:about-us:services:index:gallery:untitled-7:reviews"/>
+    <file name="flavors.css" crc="357313802" ref="flavors"/>
+    <file name="contact.css" crc="442830240" ref="contact"/>
+    <file name="about-us.css" crc="134721864" ref="about-us"/>
+    <file name="services.css" crc="4059540001" ref="services"/>
+    <file name="gallery.css" crc="3809246125" ref="gallery"/>
+    <file name="untitled-7.css" crc="4272258613" ref="untitled-7"/>
+    <file name="reviews.css" crc="493099277" ref="reviews"/>
+    <file name="index.css" crc="4274000255" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="museutils.js" crc="3793461109" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="pie.js" crc="3827607177" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="webpro.js" crc="4263367560" ref="gallery:flavors:contact"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="gallery"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="gallery"/>
+    <file name="touchswipe.js" crc="3796284560" ref="gallery"/>
+    <file name="musewpdisclosure.js" crc="513264147" ref="flavors"/>
+    <file name="form_check.php" crc="428372696" ref="contact"/>
+    <file name="form_throttle.php" crc="419817817" ref="contact"/>
+    <file name="form-u2730.php" crc="448264165" ref="contact"/>
+    <file name="form_process.php" crc="3787855599" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="aheimann_storyteller_white.jpg" crc="261982172" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="aheimann_storyteller_white-page-fr.png" crc="420451128" ref="index:about-us:flavors:services:gallery:contact:untitled-7:reviews"/>
+    <file name="untitled-2.png" crc="59773466" ref="index"/>
+    <file name="untitled-22.png" crc="4143398012" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="yelp.png" crc="404240404" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="untitled-2-u546.png" crc="3976924264" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="untitled-23.png" crc="4285528360" ref="index:about-us:services:flavors:contact"/>
+    <file name="u3208-4.png" crc="3843355240" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="u3209-4.png" crc="4007524237" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="u3212-4.png" crc="191107822" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="u3213-4.png" crc="4095330142" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="insta.png" crc="121165680" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="line.png" crc="4283055864" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="cqecnjkn.jpg" crc="4004059997" ref="index:gallery"/>
+    <file name="ribbon.png" crc="3985555394" ref="about-us"/>
+    <file name="untitled-1-u3878.png" crc="202363147" ref="index"/>
+    <file name="gally-u3885-fr.png" crc="91686670" ref="index"/>
+    <file name="gally-u3885-r-fr.png" crc="4128439464" ref="index"/>
+    <file name="button.png" crc="39826821" ref="index"/>
+    <file name="b-u2425.png" crc="71488586" ref="about-us"/>
+    <file name="b-u2533.png" crc="4161232102" ref="about-us"/>
+    <file name="u3066-4.png" crc="93627562" ref="about-us"/>
+    <file name="gally-u3897-fr.png" crc="4156150017" ref="about-us"/>
+    <file name="gally-u3897-r-fr.png" crc="417631036" ref="about-us"/>
+    <file name="blank.gif" crc="4208392903" ref="gallery:flavors:contact"/>
+    <file name="img_5485478x358.jpg" crc="3855409561" ref="gallery"/>
+    <file name="img_5486478x358.jpg" crc="4250533577" ref="gallery"/>
+    <file name="img_5470478x358.jpg" crc="457696375" ref="gallery"/>
+    <file name="img_5472478x358.jpg" crc="107158995" ref="gallery"/>
+    <file name="img_5474478x358.jpg" crc="526157731" ref="gallery"/>
+    <file name="img_5476478x358.jpg" crc="460294296" ref="gallery"/>
+    <file name="img_5530.jpg" crc="402219687" ref="gallery"/>
+    <file name="img_5531.jpg" crc="423463169" ref="gallery"/>
+    <file name="img_5532.jpg" crc="4127570932" ref="gallery"/>
+    <file name="img_5533.jpg" crc="224567201" ref="gallery"/>
+    <file name="img_5535.jpg" crc="3878814501" ref="gallery"/>
+    <file name="img_5537.jpg" crc="291703035" ref="gallery"/>
+    <file name="img_5540.jpg" crc="3846360314" ref="gallery"/>
+    <file name="img_5541.jpg" crc="4052823811" ref="gallery"/>
+    <file name="img_5542.jpg" crc="4266789135" ref="gallery"/>
+    <file name="img_5543.jpg" crc="4197643255" ref="gallery"/>
+    <file name="img_5544.jpg" crc="3973447843" ref="gallery"/>
+    <file name="img_5545.jpg" crc="250101370" ref="gallery"/>
+    <file name="img_5546.jpg" crc="3807215795" ref="gallery"/>
+    <file name="img_548560x45.jpg" crc="253550566" ref="gallery"/>
+    <file name="img_547060x45.jpg" crc="4079941830" ref="gallery"/>
+    <file name="img_547160x45.jpg" crc="3979351320" ref="gallery"/>
+    <file name="img_547260x45.jpg" crc="3769030515" ref="gallery"/>
+    <file name="img_547360x45.jpg" crc="139406874" ref="gallery"/>
+    <file name="img_547460x45.jpg" crc="352194717" ref="gallery"/>
+    <file name="img_547560x45.jpg" crc="4154248260" ref="gallery"/>
+    <file name="img_547660x45.jpg" crc="4153233913" ref="gallery"/>
+    <file name="img_547962x45.jpg" crc="4074042364" ref="gallery"/>
+    <file name="img_548160x46.jpg" crc="3969056394" ref="gallery"/>
+    <file name="img_548260x46.jpg" crc="389652587" ref="gallery"/>
+    <file name="img_548460x46.jpg" crc="144835441" ref="gallery"/>
+    <file name="img_548560x46.jpg" crc="253550566" ref="gallery"/>
+    <file name="img_548660x46.jpg" crc="3784384146" ref="gallery"/>
+    <file name="img_546860x46.jpg" crc="4084372854" ref="gallery"/>
+    <file name="img_546960x46.jpg" crc="410441918" ref="gallery"/>
+    <file name="img_547060x46.jpg" crc="4079941830" ref="gallery"/>
+    <file name="img_547260x46.jpg" crc="3769030515" ref="gallery"/>
+    <file name="img_547460x46.jpg" crc="352194717" ref="gallery"/>
+    <file name="img_547660x46.jpg" crc="4153233913" ref="gallery"/>
+    <file name="img_547760x46.jpg" crc="300883487" ref="gallery"/>
+    <file name="img_553161x45.jpg" crc="4022129809" ref="gallery"/>
+    <file name="img_553261x45.jpg" crc="3926255989" ref="gallery"/>
+    <file name="img_553568x45.jpg" crc="84679837" ref="gallery"/>
+    <file name="img_553760x46.jpg" crc="175429736" ref="gallery"/>
+    <file name="img_554166x45.jpg" crc="3759560488" ref="gallery"/>
+    <file name="img_554268x45.jpg" crc="324199051" ref="gallery"/>
+    <file name="img_554360x49.jpg" crc="4165056352" ref="gallery"/>
+    <file name="loading.gif" crc="3815509949" ref="gallery"/>
+    <file name="screen shot 2014-05-22 at 50108 pm.jpg" crc="422962675" ref="gallery"/>
+    <file name="sbkxnsj-u4413.png" crc="429122917" ref="gallery"/>
+    <file name="u3029.png" crc="477083355" ref="flavors"/>
+    <file name="u3029-r.png" crc="311148189" ref="flavors"/>
+    <file name="u3029-a.png" crc="4079003233" ref="flavors"/>
+    <file name="u3035.png" crc="171583511" ref="flavors"/>
+    <file name="u3035-r.png" crc="510640957" ref="flavors"/>
+    <file name="u3035-a.png" crc="4202483445" ref="flavors"/>
+    <file name="image.jpg" crc="225272955" ref="flavors"/>
+    <file name="u3325.png" crc="4060870384" ref="flavors"/>
+    <file name="u3325-r.png" crc="4192892855" ref="flavors"/>
+    <file name="u3325-m.png" crc="4192892855" ref="flavors"/>
+    <file name="u3325-a.png" crc="4016161487" ref="flavors"/>
+    <file name="u3321.png" crc="3950436313" ref="flavors"/>
+    <file name="u3321-r.png" crc="298555086" ref="flavors"/>
+    <file name="u3321-m.png" crc="298555086" ref="flavors"/>
+    <file name="u3321-a.png" crc="4053299814" ref="flavors"/>
+    <file name="u2722-7.png" crc="474504562" ref="contact"/>
+    <file name="gally-u3898-fr.png" crc="3809904207" ref="contact"/>
+    <file name="gally-u3898-r-fr.png" crc="4150786922" ref="contact"/>
+    <file name="u2723-4.png" crc="311935904" ref="contact"/>
+    <file name="u2737.png" crc="5698471" ref="contact"/>
+    <file name="u2737-ferr.png" crc="525695624" ref="contact"/>
+    <file name="u2761.png" crc="4084536937" ref="contact"/>
+    <file name="u2761-ferr.png" crc="191771776" ref="contact"/>
+    <file name="u2756-17.png" crc="88400231" ref="contact"/>
+    <file name="u2756-17-r.png" crc="124885564" ref="contact"/>
+    <file name="u2756-17-m.png" crc="4080852444" ref="contact"/>
+    <file name="u2756-17-fs.png" crc="4175265086" ref="contact"/>
+    <file name="u2733.png" crc="4284452453" ref="contact"/>
+    <file name="u2733-ferr.png" crc="79495618" ref="contact"/>
+    <file name="screen shot 2014-05-16 at 92316 pm.jpg" crc="255629498" ref="contact"/>
+    <file name="u5132-5.png" crc="3785728561" ref="untitled-7"/>
+    <file name="untitled-1-u5148.png" crc="4191712878" ref="untitled-7"/>
+    <file name="u5151-4.png" crc="4233517533" ref="untitled-7"/>
+    <file name="untitled-2-crop-u748.png" crc="3796693460" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="untitled-2-crop-u945.png" crc="4176351609" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="untitled-2-crop-u1260.png" crc="149712089" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="untitled-2-vector smart object.png" crc="3890711855" ref="index"/>
+    <file name="untitled-2-vector smart object2.png" crc="153476986" ref="index"/>
+    <file name="untitled-2-vector smart object3.png" crc="400648530" ref="index"/>
+    <file name="line 2.png" crc="358566316" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="untitled-2-crop-u3057.png" crc="272836074" ref="about-us"/>
+    <file name="untitled-2-crop-u3060.png" crc="272836074" ref="about-us"/>
+    <file name="untitled-2-crop-u3063.png" crc="272836074" ref="about-us"/>
+    <file name="dots.png" crc="401525593" ref="services"/>
+    <file name="service.png" crc="19019873" ref="services"/>
+    <file name="service 2.png" crc="264723757" ref="services"/>
+    <file name="bar.png" crc="3777655405" ref="services"/>
+    <file name="u5261-4.png" crc="4233996943" ref="services"/>
+    <file name="review.png" crc="535173770" ref="services"/>
+    <file name="img_5485-crop-u3713.jpg" crc="4238840198" ref="gallery"/>
+    <file name="img_5470-crop-u3749.jpg" crc="255642086" ref="gallery"/>
+    <file name="img_5471-crop-u3758.jpg" crc="330646099" ref="gallery"/>
+    <file name="img_5472-crop-u3767.jpg" crc="127752025" ref="gallery"/>
+    <file name="img_5473-crop-u3776.jpg" crc="173906207" ref="gallery"/>
+    <file name="img_5474-crop-u3785.jpg" crc="4112793984" ref="gallery"/>
+    <file name="img_5475-crop-u3794.jpg" crc="435607420" ref="gallery"/>
+    <file name="img_5476-crop-u3803.jpg" crc="12345113" ref="gallery"/>
+    <file name="img_5530-crop-u4764.jpg" crc="484694659" ref="gallery"/>
+    <file name="img_5533-crop-u4791.jpg" crc="41324934" ref="gallery"/>
+    <file name="img_5540-crop-u4836.jpg" crc="3886079820" ref="gallery"/>
+    <file name="img_5544-crop-u4872.jpg" crc="3783643265" ref="gallery"/>
+    <file name="img_5545-crop-u4881.jpg" crc="380118081" ref="gallery"/>
+    <file name="img_5546-crop-u4890.jpg" crc="380894950" ref="gallery"/>
+    <file name="bubble.png" crc="4273496477" ref="reviews"/>
+    <file name="bubble 2.png" crc="4006617298" ref="reviews"/>
+    <file name="bubble 3.png" crc="347218988" ref="reviews"/>
+    <file name="sparkle.png" crc="3880977113" ref="reviews"/>
+    <file name="spark.png" crc="4264211928" ref="reviews"/>
+    <file name="srk.png" crc="121393380" ref="reviews"/>
+    <file name="snow cone.png" crc="481556101" ref="reviews"/>
+    <file name="candy.png" crc="33026283" ref="reviews"/>
+    <file name="review button.png" crc="4285550008" ref="reviews"/>
+    <file name="back.png" crc="433110903" ref="reviews"/>
+    <file name="gally-u5403-fr.png" crc="190836523" ref="reviews"/>
+    <file name="gally-u5403-r-fr.png" crc="65880838" ref="reviews"/>
+    <file name="photo 1.jpg" crc="3910980762" ref="gallery"/>
+    <file name="photo 2.jpg" crc="4047912166" ref="gallery"/>
+    <file name="photo 3-u5508.png" crc="4159136429" ref="gallery"/>
+    <file name="photo 4-u5517.png" crc="3897349874" ref="gallery"/>
+    <file name="photo 5-crop-u5526.jpg" crc="4056459121" ref="gallery"/>
+    <file name="photo 2-u5545.png" crc="505982215" ref="gallery"/>
+    <file name="photo 1-crop-u5560.jpg" crc="358070560" ref="gallery"/>
+    <file name="img_5482-u4070.png" crc="79833627" ref="gallery"/>
+    <file name="img_5486.jpg" crc="4002617319" ref="gallery"/>
+    <file name="img_5481-crop-u4599.jpg" crc="3762458520" ref="gallery"/>
+    <file name="img_5477.jpg" crc="4269615437" ref="gallery"/>
+    <file name="img_5479.jpg" crc="4173403291" ref="gallery"/>
+    <file name="photo 160x45.jpg" crc="4176640449" ref="gallery"/>
+    <file name="u5511.png" crc="291714729" ref="gallery"/>
+    <file name="u5511-a.png" crc="291714729" ref="gallery"/>
+    <file name="u5520.png" crc="360165100" ref="gallery"/>
+    <file name="u5520-a.png" crc="360165100" ref="gallery"/>
+    <file name="photo 5-crop-u5529.jpg" crc="199999481" ref="gallery"/>
+    <file name="u5548.png" crc="164615534" ref="gallery"/>
+    <file name="u5548-a.png" crc="164615534" ref="gallery"/>
+    <file name="photo 1-u5490.png" crc="3768658678" ref="gallery"/>
+    <file name="photo 3.jpg" crc="298199570" ref="gallery"/>
+    <file name="photo 4.jpg" crc="4087211286" ref="gallery"/>
+    <file name="photo 5.jpg" crc="4116261673" ref="gallery"/>
+    <file name="photo 12.jpg" crc="4215829564" ref="gallery"/>
+    <file name="photo 22.jpg" crc="141481313" ref="gallery"/>
+    <file name="photo 32.jpg" crc="4293227918" ref="gallery"/>
+    <file name="photo 42.jpg" crc="290264182" ref="gallery"/>
+    <file name="photo 52.jpg" crc="4015103470" ref="gallery"/>
+    <file name="img_5484.jpg" crc="3996752944" ref="gallery"/>
+    <file name="img_5468.jpg" crc="4052991492" ref="gallery"/>
+    <file name="img_5469.jpg" crc="452478269" ref="gallery"/>
+    <file name="u5493.png" crc="4090448251" ref="gallery"/>
+    <file name="u5493-a.png" crc="4090448251" ref="gallery"/>
+    <file name="photo 160x47.jpg" crc="302723674" ref="gallery"/>
+    <file name="photo 268x45.jpg" crc="4200991000" ref="gallery"/>
+    <file name="photo 368x45.jpg" crc="201472498" ref="gallery"/>
+    <file name="photo 460x53.jpg" crc="524881441" ref="gallery"/>
+    <file name="photo 568x45.jpg" crc="132885386" ref="gallery"/>
+    <file name="photo 1-crop-u5675.jpg" crc="3959070702" ref="gallery"/>
+    <file name="photo 3-crop-u5693.jpg" crc="117672326" ref="gallery"/>
+    <file name="photo 460x54.jpg" crc="3973372562" ref="gallery"/>
+    <file name="photo 568x452.jpg" crc="96185411" ref="gallery"/>
+    <file name="photo 13.jpg" crc="4239204245" ref="gallery"/>
+    <file name="photo 33.jpg" crc="348515904" ref="gallery"/>
+    <file name="photo 43.jpg" crc="412983242" ref="gallery"/>
+    <file name="photo 53.jpg" crc="4064627512" ref="gallery"/>
+    <file name="photo 168x45.jpg" crc="465813506" ref="gallery"/>
+    <file name="photo 268x452.jpg" crc="22548709" ref="gallery"/>
+    <file name="photo 368x452.jpg" crc="277013472" ref="gallery"/>
+    <file name="photo 468x45.jpg" crc="53450103" ref="gallery"/>
+    <file name="photo 5-crop-u5788.jpg" crc="4091425829" ref="gallery"/>
+    <file name="untitled-2-crop-u1228.png" crc="3862578063" ref="index:about-us:services:gallery:flavors:contact:untitled-7:reviews"/>
+    <file name="untitled-1-crop-u5815.png" crc="4075285553" ref="index"/>
+    <file name="untitled-1-candy.png" crc="4121203252" ref="index"/>
+    <file name="untitled-1-layer 2.png" crc="507243678" ref="index"/>
+    <file name="untitled-2-snow cone.png" crc="3820799420" ref="index"/>
+    <file name="untitled-2-layer 1.png" crc="165498174" ref="index"/>
+    <file name="u5850-4.png" crc="4064359629" ref="contact"/>
+  </folder>
+  <file name="about-us.html" crc="4089535395" mt="1416380675787" redirect="true"/>
+  <file name="services.html" crc="161075939" mt="1416376253130" redirect="true"/>
+  <file name="gallery.html" crc="399404640" mt="1416376253130" redirect="true"/>
+  <file name="flavors.html" crc="3805778939" mt="1438971696463" redirect="true"/>
+  <file name="contact.html" crc="490414380" mt="1438970780441" redirect="true"/>
+  <file name="index.html" crc="330911292" mt="1438970792114" redirect="true"/>
+  <file name="untitled-7.html" crc="4095799971" mt="1416376253132" redirect="true"/>
+  <file name="reviews.html" crc="4209236930" mt="1416376253132" redirect="true"/>
+</manifest>
